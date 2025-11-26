@@ -8,3 +8,6 @@ M420 S1
 
 G0 Z10 F1000         
 G0 X34 Y65 F3000 
+
+# Remove G21
+# Remove G94
